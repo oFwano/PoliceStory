@@ -1,0 +1,68 @@
+bullet.png
+size: 115, 23
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit
+  rotate: false
+  xy: 0, 0
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: 0
+hit
+  rotate: false
+  xy: 19, 0
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: 1
+hit
+  rotate: false
+  xy: 36, 0
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 2
+hit
+  rotate: false
+  xy: 50, 0
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: 3
+hit
+  rotate: false
+  xy: 61, 0
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: 4
+shot
+  rotate: false
+  xy: 67, 0
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: 0
+shot
+  rotate: false
+  xy: 79, 0
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: 1
+shot
+  rotate: false
+  xy: 91, 0
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: 2
+shot
+  rotate: false
+  xy: 103, 0
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: 3

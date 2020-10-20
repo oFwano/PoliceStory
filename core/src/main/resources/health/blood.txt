@@ -1,0 +1,110 @@
+blood.png
+size: 1440, 96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+    rotation: false
+    xy: 0, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 0
+blood
+    rotation: false
+    xy: 96, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 1
+blood
+    rotation: false
+    xy: 192, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 2
+blood
+    rotation: false
+    xy: 288, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 3
+blood
+    rotation: false
+    xy: 384, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 4
+blood
+    rotation: false
+    xy: 480, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 5
+blood
+    rotation: false
+    xy: 576, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 6
+blood
+    rotation: false
+    xy: 672, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 7
+blood
+    rotation: false
+    xy: 768, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 8
+blood
+    rotation: false
+    xy: 864, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 9
+blood
+    rotation: false
+    xy: 960, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 10
+blood
+    rotation: false
+    xy: 1056, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 11
+blood
+    rotation: false
+    xy: 1152, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 12
+blood
+    rotation: false
+    xy: 1248, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 13
+blood
+    rotation: false
+    xy: 1344, 0
+    size: 96, 96
+    orig: 96, 96
+    offset: 0, 0
+    index: 14

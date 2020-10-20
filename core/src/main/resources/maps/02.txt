@@ -1,0 +1,16 @@
+wall/12 wall/05 wall/05 wall/05 wall/05 wall/05 wall/05 wall/05 wall/13 wall/08 wall/08 wall/12 wall/05 wall/05 wall/05 wall/13
+wall/09 wall/15 wall/16 wall/16 wall/16 wall/16 wall/16 wall/16 wall/07 wall/08 wall/08 wall/09 wall/16 wall/16 stairs/01 wall/07
+wall/09 wall/18 wall/19 wall/19 wall/19 wall/19 wall/19 wall/19 wall/07 wall/08 wall/08 wall/09 wall/19 stairs/02 stairs/04 wall/07
+wall/09 enemy floor/00 floor/00 floor/00 floor/00 floor/00 floor/00 wall/07 wall/08 wall/08 wall/09 end stairs/04 stairs/05 wall/07
+wall/09 floor/00 floor/00 floor/00 floor/00 floor/00 floor/00 floor/00 wall/07 wall/08 wall/08 wall/09 floor/00 floor/00 floor/00 wall/07
+wall/09 floor/00 enemy floor/00 wall/01 wall/03 punishment floor/00 wall/07 wall/08 wall/08 wall/09 enemy floor/00 floor/00 wall/07
+wall/09 floor/00 punishment floor/00 wall/07 wall/09 floor/00 enemy wall/07 wall/08 wall/08 wall/09 floor/00 punishment enemy wall/07
+wall/09 enemy floor/00 floor/00 wall/07 wall/09 floor/00 reward wall/07 wall/08 wall/08 wall/09 floor/00 floor/00 floor/00 wall/07
+wall/09 floor/00 floor/00 floor/00 wall/07 wall/09 floor/00 floor/00 wall/07 wall/08 wall/08 wall/09 floor/00 floor/00 floor/00 wall/07
+wall/09 reward floor/00 floor/00 wall/07 wall/09 floor/00 food wall/07 wall/08 wall/08 wall/09 reward floor/00 floor/00 wall/07
+wall/09 floor/00 floor/00 floor/00 wall/07 wall/09 floor/00 floor/00 wall/07 wall/08 wall/08 wall/09 enemy floor/00 floor/00 wall/07
+wall/09 punishment floor/00 floor/00 wall/07 wall/09 enemy floor/00 wall/07 wall/08 wall/08 wall/09 punishment floor/00 enemy wall/07
+wall/09 floor/00 floor/00 floor/00 wall/07 wall/09 floor/00 enemy wall/04 wall/05 wall/05 wall/06 floor/00 floor/00 floor/00 wall/07
+wall/09 floor/00 floor/00 floor/00 wall/07 wall/09 punishment floor/00 floor/00 floor/00 floor/00 floor/00 floor/00 floor/00 floor/00 wall/07
+wall/09 stairs/06 stairs/07 player wall/07 wall/09 floor/00 floor/00 enemy bonus floor/00 floor/00 floor/00 floor/00 floor/00 wall/07
+wall/11 wall/02 wall/02 wall/02 wall/14 wall/11 wall/02 wall/02 wall/02 wall/02 wall/02 wall/02 wall/02 wall/02 wall/02 wall/14

@@ -1,0 +1,26 @@
+folder.png
+size: 38, 102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+folder
+  rotate: false
+  xy: 0, 0
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: 0
+folder
+  rotate: false
+  xy: 0, 30
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: 1
+folder
+  rotate: false
+  xy: 0, 64
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: 2
